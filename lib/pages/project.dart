@@ -83,12 +83,12 @@ class _ProjectPageState extends State<ProjectPage> {
           child: ListView(
             scrollDirection: Axis.horizontal,
             children: [
-              buildAvatar('Mia', 'mia'),
-              buildAvatar('Adam', 'adam'),
-              buildAvatar('Jess', 'jess'),
-              buildAvatar('Mike', 'mike'),
-              buildAvatar('Brandon', 'brandon'),
-              buildAvatar('Alie', 'alie'),
+              buildAvatar('Mia', 'jane'),
+              buildAvatar('Adam', 'alan'),
+              buildAvatar('Jess', 'janice'),
+              buildAvatar('Mike', 'mariess'),
+              buildAvatar('Brandon', 'amie'),
+              buildAvatar('Alie', 'andrea'),
             ],
           ),
         ),
